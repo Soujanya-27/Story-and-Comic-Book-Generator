@@ -1,7 +1,7 @@
 #  Story and Comic Book Generator  
 
 ##  Overview  
-The **Story and Comic Book Generator** is an AI-powered tool that creates interactive stories based on user-provided topics. It generates a **title**, a **five-chapter storyline**, and **AI-generated images** for each chapter, including a **cover image**. The tool uses **LangChain** for structured prompt handling, **OpenAI's GPT** for story generation, and **Replica** for AI-generated voice narration.  
+The **Story and Comic Book Generator** is an AI-powered tool that creates interactive stories based on user-provided topics. It generates a **title**, a **five-chapter storyline**, and **AI-generated images** for each chapter, including a **cover image**. The tool uses **LangChain** for structured prompt handling, **OpenAI's GPT** for story generation.  
 
 ##  Features  
 -  **Automated Storytelling** – Enter a topic, and AI generates a full five-chapter story.  
